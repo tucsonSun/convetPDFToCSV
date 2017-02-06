@@ -8,8 +8,6 @@
 #
 # Bin Settings
 #
-bin/*
-/bin/*
 bin/
 
 
